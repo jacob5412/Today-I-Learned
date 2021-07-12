@@ -44,3 +44,8 @@
     * Non-response
 
 * Permutations: Fancy way of saying how things are arranged
+
+## 10th July: Quality check
+
+* Data Analysis isn't just about writing code/queries, but also about what output you generated is correct.
+* Always QC your data against a known source of truth.
